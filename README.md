@@ -14,6 +14,8 @@ Conclusion:
 This project showcases my data analysis skills, passion for history, and scientific progress, as I inspire others to appreciate the value of innovation and intellectual curiosity. Through continuous learning, critical thinking, and storytelling, I aim to contribute meaningfully to the world of data science. Excited for more data-driven ventures in the future!
 
 
+
+
 # [Project 2: The Revolutionary Revelation of Handwashing by Dr. Semmelweis](https://app.datacamp.com/workspace/w/fe07ff2e-3a60-46a1-a4cb-42f7bb63d116)
 In this project, I:
 
